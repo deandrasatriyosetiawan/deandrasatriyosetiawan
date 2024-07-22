@@ -48,3 +48,12 @@
     <img alt="Dean's Stats Graph" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deandrasatriyosetiawan&theme=rose_pine" width="750"/>
   </a>
 </p>
+
+### 📬 &nbsp;Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/deandrasatriyosetiawan"><img src="https://img.shields.io/badge/Deandra%20Satriyo%20Setiawan-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:deandrasatriyosetiawan@gmail.com"><img src="https://img.shields.io/badge/deandrasatriyosetiawan@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://behance.net/deandrasetiawa"><img src="https://img.shields.io/badge/Deandra%20Satriyo%20Setiawan-1769FF?style=flat&logo=behance&logoColor=white"/></a>
+  <a href="https://dribbble.com/deandra_satriyo"><img src="https://img.shields.io/badge/Deandra%20Satriyo%20Setiawan-EA4C89?style=flat&logo=dribbble&logoColor=white"/></a>
+</p>
