@@ -1,8 +1,12 @@
 <div>
-  <img alt="Greetings" src="polar_bear.gif" width="40" align="left"/>
-  <h2>Hello, My Name is Dean</h2>
+  <div>
+    <img alt="Greetings" src="goma_likes_programming.gif" width="40"/> &nbsp
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&weight=500&size=24&pause=1000&color=9CCFD8&vCenter=true&width=300&height=30&lines=Hello%2C+My+Name+is+Dean" alt="Typing SVG"  /></a>
+  </div>
+  <div>
+    <img alt="Dean's Number of Visitors" src="https://komarev.com/ghpvc/?username=deandrasatriyosetiawan&color=9CCFD8&label=Number+of+Visitors" align="right"/> <br><br>
+  </div>
 </div>
-<img alt="Dean's Number of Visitors" src="https://komarev.com/ghpvc/?username=deandrasatriyosetiawan&color=9CCFD8&label=Number+of+Visitors" align="right"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
