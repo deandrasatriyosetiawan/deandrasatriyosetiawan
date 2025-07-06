@@ -49,6 +49,7 @@
     <br />
     <img alt="Dean's Top Languages by Repo" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deandrasatriyosetiawan&theme=rose_pine"/>
     <img alt="Dean's Top Languages by Commit" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deandrasatriyosetiawan&theme=rose_pine"/>
+    <img alt="Dean's GitHub Streak" width="750" src="https://streak-stats.demolab.com/?user=deandrasatriyosetiawan&theme=rose_pine&hide_border=true" />
     <img alt="Dean's Stats Graph" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deandrasatriyosetiawan&theme=rose_pine" width="750"/>
   </a>
 </p>
@@ -56,8 +57,8 @@
 ### 📬 &nbsp;Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/deandrasatriyosetiawan"><img src="https://img.shields.io/badge/Deandra%20Satriyo%20Setiawan-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:deandrasatriyosetiawan@gmail.com"><img src="https://img.shields.io/badge/deandrasatriyosetiawan@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://behance.net/deandrasetiawa"><img src="https://img.shields.io/badge/Deandra%20Satriyo%20Setiawan-1769FF?style=flat&logo=behance&logoColor=white"/></a>
-  <a href="https://dribbble.com/deandra_satriyo"><img src="https://img.shields.io/badge/Deandra%20Satriyo%20Setiawan-EA4C89?style=flat&logo=dribbble&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/deandrasatriyosetiawan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:deandrasatriyosetiawan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://behance.net/deandrasetiawa"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white"/></a>
+  <a href="https://dribbble.com/deandra_satriyo"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white"/></a>
 </p>
