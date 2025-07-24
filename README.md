@@ -10,9 +10,21 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm currently studying for a Bachelor of Informatics at Universitas Pembangunan Nasional Veteran Jakarta.\
-🌱 &nbsp;I'm presently learning about multi-platform app development, especially mobile apps, and back-end development.\
-🔎 &nbsp;I'm open to exploring new technologies for software development.
+Hi, I'm Deandra Satriyo Setiawan, a recently graduated Flutter Developer passionate about building high-quality mobile experiences.
+
+* 📱 **Architected and developed** a comprehensive inventory management system for the Faculty of Computer Science at UPNVJ, implementing the BLoC pattern to ensure a scalable and testable codebase.
+* 🚀 **Led and launched 'CutsConnect'**, a barbershop discovery app, after successfully **securing national funding** from the Indonesian Directorate General of Higher Education (Ditjen Diktiristek).
+* 🛠️ **Specialize in Flutter and Dart**, with deep knowledge of state management patterns including **BLoC, Cubit, GetX, and Provider** to create clean, responsive UIs.
+* 💡 **Open to remote opportunities, including full-time and freelance roles**, where I can contribute my skills in mobile development, UI/UX design, and API integration to a great team.
+
+### 📬 &nbsp;Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/deandrasatriyosetiawan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:deandrasatriyosetiawan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://behance.net/deandrasetiawa"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white"/></a>
+  <a href="https://dribbble.com/deandra_satriyo"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white"/></a>
+</p>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -24,12 +36,18 @@
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![SQLite](https://img.shields.io/badge/SQLite-05122A?style=flat&logo=sqlite&logoColor=5CAADC)&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
+![Supabase](https://img.shields.io/badge/Supabase-05122A?style=flat&logo=supabase&logoColor=3FCF8E)&nbsp;
 ![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git&logoColor=F05032)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github&logoColor=FFFFFF)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-05122A?style=flat&logo=androidstudio&logoColor=3DDC84)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman&logoColor=FF6C37)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma&logoColor=13BDFE)&nbsp;
+
+### 🌱 &nbsp;Currently Exploring
+
+* **Custom Back End Development:** Building high-performance APIs from scratch with **TypeScript** and the **Bun** runtime.
+* **Backend-as-a-Service (BaaS):** Leveraging **Supabase** to architect and build full-stack applications with rapid development cycles.
 
 ### 📊 &nbsp;GitHub Statistics
 
@@ -42,13 +60,4 @@
     <img alt="Dean's Stats Graph" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deandrasatriyosetiawan&theme=rose_pine" width="750"/>
 <!--     <img alt="Dean's GitHub Streak" width="750" src="https://streak-stats.demolab.com/?user=deandrasatriyosetiawan&theme=rose_pine&hide_border=true" /> -->
   </a>
-</p>
-
-### 📬 &nbsp;Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/deandrasatriyosetiawan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:deandrasatriyosetiawan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://behance.net/deandrasetiawa"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white"/></a>
-  <a href="https://dribbble.com/deandra_satriyo"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white"/></a>
 </p>
