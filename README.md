@@ -8,6 +8,8 @@
   </div>
 </div>
 
+<br>
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 Hello, I'm Deandra Satriyo Setiawan, a recently graduated Flutter Developer passionate about building high-quality mobile experiences.
@@ -17,6 +19,8 @@ Hello, I'm Deandra Satriyo Setiawan, a recently graduated Flutter Developer pass
 * 🛠️ **Specialize in Flutter and Dart**, with deep knowledge of state management patterns including **BLoC, Cubit, GetX, and Provider** to create clean, responsive UIs.
 * 💡 **Open to remote opportunities, including full-time and freelance roles**, where I can contribute my skills in mobile development, UI/UX design, and API integration to a great team.
 
+<br>
+
 ### 📬 &nbsp;Connect with Me
 
 <p align="left">
@@ -25,6 +29,8 @@ Hello, I'm Deandra Satriyo Setiawan, a recently graduated Flutter Developer pass
   <a href="https://behance.net/deandrasetiawa"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white"/></a>
   <a href="https://dribbble.com/deandra_satriyo"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white"/></a>
 </p>
+
+<br>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -44,10 +50,14 @@ Hello, I'm Deandra Satriyo Setiawan, a recently graduated Flutter Developer pass
 ![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman&logoColor=FF6C37)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma&logoColor=13BDFE)&nbsp;
 
+<br>
+
 ### 🌱 &nbsp;Currently Exploring
 
 * **Custom Back-End Development:** Building high-performance APIs from scratch with **TypeScript** and the **Bun** runtime.
 * **Backend-as-a-Service (BaaS):** Leveraging **Supabase** to architect and build full-stack applications with rapid development cycles.
+
+<br>
 
 ### 📊 &nbsp;GitHub Statistics
 
