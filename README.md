@@ -10,7 +10,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-Hi, I'm Deandra Satriyo Setiawan, a recently graduated Flutter Developer passionate about building high-quality mobile experiences.
+Hello, I'm Deandra Satriyo Setiawan, a recently graduated Flutter Developer passionate about building high-quality mobile experiences.
 
 * 📱 **Architected and developed** a comprehensive inventory management system for the Faculty of Computer Science at UPNVJ, implementing the BLoC pattern to ensure a scalable and testable codebase.
 * 🚀 **Led and launched 'CutsConnect'**, a barbershop discovery app, after successfully **securing national funding** from the Indonesian Directorate General of Higher Education (Ditjen Diktiristek).
@@ -46,7 +46,7 @@ Hi, I'm Deandra Satriyo Setiawan, a recently graduated Flutter Developer passion
 
 ### 🌱 &nbsp;Currently Exploring
 
-* **Custom Back End Development:** Building high-performance APIs from scratch with **TypeScript** and the **Bun** runtime.
+* **Custom Back-End Development:** Building high-performance APIs from scratch with **TypeScript** and the **Bun** runtime.
 * **Backend-as-a-Service (BaaS):** Leveraging **Supabase** to architect and build full-stack applications with rapid development cycles.
 
 ### 📊 &nbsp;GitHub Statistics
