@@ -12,8 +12,8 @@
 
 Hello, I'm Deandra Satriyo Setiawan, a recently graduated Flutter Developer passionate about building high-quality mobile experiences.
 
-* 📱 **Architected and developed** a comprehensive inventory management system for the Faculty of Computer Science at UPNVJ, implementing the BLoC pattern to ensure a scalable and testable codebase.
-* 🚀 **Led and launched 'CutsConnect'**, a barbershop discovery app, after successfully **securing national funding** from the Indonesian Directorate General of Higher Education (Ditjen Diktiristek).
+* 📱 **Architected and developed** a comprehensive [inventory management system](https://www.linkedin.com/posts/deandrasatriyosetiawan_project-details-of-inventory-management-and-activity-7350184349541052417-nw3V?utm_source=share&utm_medium=member_desktop&rcm=ACoAAChSzvcBUEOOuPuJ2jKv6fRJEMGizVtCq64) for the Faculty of Computer Science at UPNVJ, implementing the BLoC pattern to ensure a scalable and testable codebase.
+* 🚀 **Led and launched '[CutsConnect](https://play.google.com/store/apps/details?id=com.cutsconnect_team.cutsconnect)'**, a barbershop discovery app, after successfully **securing national funding** from the Indonesian Directorate General of Higher Education (Ditjen Diktiristek).
 * 🛠️ **Specialize in Flutter and Dart**, with deep knowledge of state management patterns including **BLoC, Cubit, GetX, and Provider** to create clean, responsive UIs.
 * 💡 **Open to remote opportunities, including full-time and freelance roles**, where I can contribute my skills in mobile development, UI/UX design, and API integration to a great team.
 
