@@ -8,8 +8,6 @@
   </div>
 </div>
 
-<br>
-
 <details open>
   <summary><h3>👨🏻‍💻 About Me</h3></summary>
   
