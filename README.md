@@ -45,7 +45,7 @@
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=FFFFFF)&nbsp;
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=FFFFFF)&nbsp;
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=FFFFFF)&nbsp;
-  ![SQL](https://img.shields.io/badge/SQL-233A51?style=flat&logo=sql&logoColor=FFFFFF)&nbsp;
+  ![SQL](https://img.shields.io/badge/SQL-5CAADC?style=flat&logo=sql&logoColor=FFFFFF)&nbsp;
 
   <h4>Frameworks and Libraries</h4>
   
@@ -65,13 +65,15 @@
   
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=FFFFFF)&nbsp;
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0098FF?style=flat&logo=visual-studio-code&logoColor=FFFFFF)&nbsp;
+  ![VS Code](https://img.shields.io/badge/VS%20Code-0098FF?style=flat&logo=visual-studio-code&logoColor=FFFFFF)&nbsp;
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-4FAF53?style=flat&logo=androidstudio&logoColor=FFFFFF)&nbsp;
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=FFFFFF)&nbsp;
 
   <h4>Design and Collaboration Tools</h4>
   
   ![Figma](https://img.shields.io/badge/Figma-A259FF?style=flat&logo=figma&logoColor=FFFFFF)&nbsp;
+  ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=FFFFFF)&nbsp;
+  ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=FFFFFF)&nbsp;
 
 </details>
 
