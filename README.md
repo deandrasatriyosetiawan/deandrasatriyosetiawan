@@ -91,8 +91,8 @@
 
   <p align="center">
     <a href="https://github.com/deandrasatriyosetiawan">
-      <img alt="Dean's Grade Card" src="https://github-readme-stats.vercel.app/api?username=deandrasatriyosetiawan&show_icons=true&theme=rose_pine&hide_border=true"/>
-      <br />
+      <img alt="Dean's Grade Card" src="https://github-readme-stats.vercel.app/api?username=deandrasatriyosetiawan&include_all_commits=true&show_icons=true&theme=rose_pine&hide_border=true"/>
+      <br>
       <img alt="Dean's Top Languages by Repo" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deandrasatriyosetiawan&theme=rose_pine"/>
       <img alt="Dean's Top Languages by Commit" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deandrasatriyosetiawan&theme=rose_pine"/>
       <img alt="Dean's Stats Graph" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deandrasatriyosetiawan&theme=rose_pine" width="750"/>
