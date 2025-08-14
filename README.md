@@ -95,8 +95,9 @@
       <br>
       <img alt="Dean's Top Languages by Repo" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deandrasatriyosetiawan&theme=rose_pine"/>
       <img alt="Dean's Top Languages by Commit" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deandrasatriyosetiawan&theme=rose_pine"/>
-      <img alt="Dean's Stats Graph" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deandrasatriyosetiawan&theme=rose_pine" width="750"/>
-  <!--     <img alt="Dean's GitHub Streak" width="750" src="https://streak-stats.demolab.com/?user=deandrasatriyosetiawan&theme=rose_pine&hide_border=true" /> -->
+      <img alt="Dean's Stats Graph" width="750" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deandrasatriyosetiawan&theme=rose_pine"/>
+      <img alt="Dean's GitHub Streak" width="750" src="https://streak-stats.demolab.com/?user=deandrasatriyosetiawan&theme=rose_pine&hide_border=true"/>
+      <img alt="Dean's WakaTime Stats" width="750" src="https://github-readme-stats.vercel.app/api/wakatime?username=deandrasatriyo&layout=compact&theme=rose_pine&hide_border=true"/>
     </a>
   </p>
 </details>
